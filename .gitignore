@@ -39,3 +39,7 @@ luac.out
 *.x86_64
 *.hex
 
+/.vscode/
+/bin/
+/开始游戏.exe.config
+/开始游戏有问题请进.txt
