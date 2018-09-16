@@ -239,16 +239,16 @@ function Health:SetVal(val, cause)
     -- local glp = nil
     -- glp()
     -- by glp 血不能少于0
-    if self.currenthealth <= 0 then
-        -- 如果是玩家则回血
-        if self.inst.components.locomotor and self.inst.components.locomotor.pathcaps
-        and self.inst.components.locomotor.pathcaps.player then
-            -- print(self.inst, type(self.inst))
-            -- print("self.inst.name = " .. self.inst.name, self.inst == "wilson", self.inst.name == "威尔逊"
-            -- , type(self.inst), self.inst.components.locomotor.pathcaps.player)
-            self.currenthealth = 100
-        end
-    end
+    -- if self.currenthealth <= 0 then
+    --     -- 如果是玩家则回血
+    --     -- if self.inst.components.locomotor and self.inst.components.locomotor.pathcaps
+    --     -- and self.inst.components.locomotor.pathcaps.player then
+    --     --     -- print(self.inst, type(self.inst))
+    --     --     -- print("self.inst.name = " .. self.inst.name, self.inst == "wilson", self.inst.name == "威尔逊"
+    --     --     -- , type(self.inst), self.inst.components.locomotor.pathcaps.player)
+    --     --     self.currenthealth = 100
+    --     -- end
+    -- end
 
     local new_percent = self:GetPercent()
 
