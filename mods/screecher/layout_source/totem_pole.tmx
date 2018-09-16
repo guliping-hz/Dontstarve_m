@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="6" height="6" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" source="dont_starve/ground.tsx"/>
+ <layer name="BG_TILES" width="6" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjYIAANiTMgEWMDU2MBYrR1eASx2cWsp0ALSAAoQ==
+  </data>
+ </layer>
+ <objectgroup name="FG_OBJECTS" width="6" height="6">
+  <object type="totem_pole" x="191" y="189"/>
+  <object type="grass" x="216" y="201"/>
+  <object type="grass" x="191" y="218"/>
+  <object type="grass" x="171" y="212"/>
+  <object type="grass" x="151" y="166"/>
+  <object type="grass" x="186" y="162"/>
+  <object type="grass" x="223" y="179"/>
+  <object type="grass" x="132" y="243"/>
+  <object type="berrybush" x="175" y="193"/>
+  <object type="grass" x="197" y="104"/>
+  <object type="berrybush" x="205" y="172"/>
+  <object type="berrybush" x="250" y="250"/>
+  <object type="lootcontainer" x="241" y="136"/>
+  <object type="lootcontainer" x="178" y="247"/>
+  <object type="firepit" x="210" y="266"/>
+ </objectgroup>
+</map>

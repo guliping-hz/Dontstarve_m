@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="6" height="6" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" source="dont_starve/ground.tsx"/>
+ <layer name="BG_TILES" width="6" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAdsAExOw5xbHK4xLEBAAzQADQ=
+  </data>
+ </layer>
+ <objectgroup name="FG_OBJECTS" width="6" height="6">
+  <object type="camper_runner" x="162" y="220"/>
+  <object type="note_diary1" x="182" y="228"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="6" height="6" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" source="dont_starve/ground.tsx"/>
+ <layer name="BG_TILES" width="6" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjYIAANiTMgEWMDU2MFYrR1eASx2cWsp0ALkgApQ==
+  </data>
+ </layer>
+ <objectgroup name="FG_OBJECTS" width="6" height="6">
+  <object type="log_chunk" x="106" y="189"/>
+  <object type="tour_guide" x="260" y="169"/>
+  <object type="manifest" x="150" y="199"/>
+  <object type="frequency" x="164" y="219"/>
+ </objectgroup>
+</map>

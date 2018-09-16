@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="6" height="6" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" source="dont_starve/ground.tsx"/>
+ <layer name="BG_TILES" width="6" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOWICYCUrDMDHiTEjy5JgDABXwAFc=
+  </data>
+ </layer>
+ <objectgroup name="FG_OBJECTS" width="6" height="6">
+  <object type="tent_cone" x="32" y="95"/>
+  <object type="tent_cone" x="267" y="222"/>
+  <object type="tent_cone" x="31" y="166"/>
+  <object type="tent_cone" x="28" y="224"/>
+  <object type="tent_cone" x="31" y="287"/>
+  <object type="tent_cone" x="28" y="355"/>
+  <object type="tent_cone" x="161" y="353"/>
+  <object type="tent_cone" x="161" y="288"/>
+  <object type="tent_cone" x="159" y="160"/>
+  <object type="tent_cone" x="156" y="100"/>
+  <object type="lootcontainer" x="242" y="153"/>
+  <object type="lootcontainer" x="278" y="152"/>
+  <object type="lootcontainer" x="280" y="117"/>
+  <object type="lootcontainer" x="242" y="116"/>
+  <object type="firepit" x="254" y="320"/>
+ </objectgroup>
+</map>

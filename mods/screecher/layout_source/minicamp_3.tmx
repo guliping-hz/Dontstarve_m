@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="4" height="4" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" source="dont_starve/ground.tsx"/>
+ <layer name="BG_TILES" width="4" height="4">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAErEDMjsRnR+MjAwADoAAb
+  </data>
+ </layer>
+ <objectgroup name="FG_OBJECTS" width="4" height="4">
+  <object type="log_chunk" x="95" y="96"/>
+  <object type="lootcontainer_cooler" x="127" y="124"/>
+  <object type="lootcontainer_cooler_small" x="132" y="143"/>
+  <object type="log_chunk" x="130" y="81"/>
+  <object type="log_chunk" x="160" y="91"/>
+  <object type="log_chunk" x="174" y="165"/>
+  <object type="log_chunk" x="152" y="184"/>
+ </objectgroup>
+</map>
