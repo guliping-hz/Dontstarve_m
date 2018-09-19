@@ -5,7 +5,7 @@ description = "call your daddy,and you will not die/叫你爸爸,然后你就不
 --mod作者
 author = "glp"
 --mod版本
-version = "1.0.1"
+version = "1.0.2"
 --论坛帖子
 forumthread = ""
 
