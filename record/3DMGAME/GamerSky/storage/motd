@@ -1,0 +1,32 @@
+KLEI     1 {
+   "standalone":{
+      "motd_title":"Chester Plush Is Back!",
+      "motd_body":"Big Klei Store update! Chester is back along with winter hats, spiders and new figs!",
+      "link_title":"More Info",
+      "link_url":"http://bit.ly/store-ds-standalone"
+   },
+   "steam":{
+      "motd_title":"Chester Plush Is Back!",
+      "motd_body":"Big Klei Store update! Chester is back along with winter hats, spiders and new figs!",
+      "link_title":"More Info",
+      "link_url":"http://bit.ly/store-ds-steam"
+   },
+	"dststeam":{
+      "motd_title":"Chester Plush Is Back!",
+      "motd_body":"Big Klei Store update! Chester is back along with winter hats, spiders and new figs!",
+      "link_title":"More Info",
+      "link_url":"http://bit.ly/store-dst-steam"
+   },
+   "rogsteam":{
+      "motd_title":"Chester Plush Is Back!",
+      "motd_body":"Big Klei Store update! Chester is back along with winter hats, spiders and new figs!",
+      "link_title":"More Info",
+      "link_url":"http://bit.ly/store-rog-steam"
+   },
+   "rogstandalone":{
+      "motd_title":"Chester Plush Is Back!",
+      "motd_body":"Big Klei Store update! Chester is back along with winter hats, spiders and new figs!",
+      "link_title":"More Info",
+      "link_url":"http://bit.ly/store-rog-standalone"
+   }
+}
