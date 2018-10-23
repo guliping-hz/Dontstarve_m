@@ -2,7 +2,14 @@ local cooking = require "cooking"
 --local foods = require "preparedfoods"
 
 local IsDLC1 = IsDLCEnabled(REIGN_OF_GIANTS)
-local IsDLC2 = IsDLCEnabled(CAPY_DLC)
+-- local IsDLC2 = IsDLCEnabled(CAPY_DLC)
+local IsDLC2 = false
+local status, temp = pcall(function()
+    return IsDLCEnabled(CAPY_DLC)
+end);
+if (status) then
+    IsDLC2 = temp
+end
 local useless_products =		--不会记录
 {
 	'ratatouille', --蹩脚炖菜  完全没价值
